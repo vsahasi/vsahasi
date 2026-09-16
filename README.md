@@ -1,6 +1,14 @@
+<div align="center">
+
 <a href="https://github.com/vsahasi">
-  <img src="https://raw.githubusercontent.com/vsahasi/vsahasi/main/assets/banner.svg" width="100%" alt="Veer Sahasi. EECS + Business @ UC Berkeley M.E.T. I build AI systems end to end: retrieval, evals, agents, multimodal ML." />
+  <img src="https://raw.githubusercontent.com/vsahasi/vsahasi/main/assets/banner.svg" width="100%" alt="Veer Sahasi" />
 </a>
+
+<a href="https://github.com/vsahasi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=640&lines=EECS+%2B+Business+%40+UC+Berkeley+M.E.T.;I+build+AI+systems+end+to+end;retrieval+%C2%B7+evals+%C2%B7+agents+%C2%B7+multimodal+ML" alt="EECS + Business @ UC Berkeley M.E.T. I build AI systems end to end: retrieval, evals, agents, multimodal ML." />
+</a>
+
+</div>
 
 I build AI products from data pipeline to UI, then measure whether they actually work. Most of what's below is retrieval, evaluation harnesses, agents, and multimodal ML, shipped as full apps with live demos or published eval numbers.
 
@@ -20,16 +28,13 @@ I build AI products from data pipeline to UI, then measure whether they actually
 | **[deckify](https://github.com/vsahasi/deckify)** | Turns a slide image into a fully editable .pptx. GPT-4o structured output finds every element, OCR locks exact text, python-pptx rebuilds the layout. | Python, GPT-4o, PaddleOCR |
 | **[candidate-facing-rerank](https://github.com/vsahasi/candidate-facing-rerank)** | People search over 100K+ LinkedIn profiles. GPT-4o query rewriting, Voyage-3 embeddings, Turbopuffer filtered ANN, structured re-ranking to a top 10. | Python, Turbopuffer, Voyage AI |
 
-## Stack, by where I used it
+## Stack
 
-| Layer | Tools | In the wild |
-| --- | --- | --- |
-| Retrieval | Pinecone, FAISS, Supabase pgvector, Turbopuffer, OpenAI and Voyage embeddings | [Pathway](https://github.com/vsahasi/gates_user-prototype), [VeriTone](https://github.com/vsahasi/veritone), [Reducto Docs Chat](https://github.com/vsahasi/reducto-docs-chat), [rerank](https://github.com/vsahasi/candidate-facing-rerank) |
-| Models and evals | Claude, GPT-4o, LLM-as-judge rubrics, Whisper, SpeechBrain, FER, MediaPipe | [MemEval](https://github.com/vsahasi/memeval), [Reducto eval](https://github.com/vsahasi/reducto-docs-chat), [VeriTone](https://github.com/vsahasi/veritone) |
-| Agents | Browser Use, multi-agent research pipelines, structured outputs | [YC Outreach Agent](https://github.com/vsahasi/browser-use-yc-outreach), [deckify](https://github.com/vsahasi/deckify) |
-| Product | TypeScript, Next.js 16, React 19, Tailwind, Vercel | [Pathway](https://github.com/vsahasi/gates_user-prototype), [onchain](https://github.com/vsahasi/onchain), [Reducto Docs Chat](https://github.com/vsahasi/reducto-docs-chat) |
-| Backend and data | Python, FastAPI, Postgres, SQLite, Redis and ARQ, Docker, scraping pipelines | [VeriTone](https://github.com/vsahasi/veritone), [the survivor bias](https://github.com/vsahasi/the-survivor-bias) |
-| Other | XRPL, python-pptx, Canvas2D | [onchain](https://github.com/vsahasi/onchain), [deckify](https://github.com/vsahasi/deckify), [the survivor bias](https://github.com/vsahasi/the-survivor-bias) |
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,fastapi,pytorch,postgres,supabase,docker,vercel,tailwind,git&perline=12" alt="Python, TypeScript, Next.js, React, FastAPI, PyTorch, Postgres, Supabase, Docker, Vercel, Tailwind, Git" />
+</p>
+
+Also: Anthropic and OpenAI APIs · Pinecone · FAISS · pgvector · Turbopuffer · Whisper · Browser Use · XRPL
 
 ## Contact
 
