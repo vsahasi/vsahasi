@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/vsahasi">
-  <img src="https://raw.githubusercontent.com/vsahasi/vsahasi/main/assets/banner.svg" width="100%" alt="Veer Sahasi" />
+  <img src="https://raw.githubusercontent.com/vsahasi/vsahasi/main/assets/banner.svg?v=2" width="100%" alt="Veer Sahasi" />
 </a>
 
 <a href="https://github.com/vsahasi">
