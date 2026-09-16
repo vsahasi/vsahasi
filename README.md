@@ -1,8 +1,9 @@
-# Veer Sahasi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsahasi/vsahasi/main/assets/name-dark.svg">
+  <img alt="Veer Sahasi" src="https://raw.githubusercontent.com/vsahasi/vsahasi/main/assets/name-light.svg" width="300" height="60">
+</picture>
 
 EECS + Business at UC Berkeley (M.E.T.). Based in San Francisco.
-
-I work on retrieval, evals, and agents. Currently building [Pathway](https://github.com/vsahasi/gates_user-prototype) for the Gates Foundation.
 
 ## Projects
 
