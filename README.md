@@ -7,6 +7,7 @@ EECS + Business at UC Berkeley (M.E.T.). Based in San Francisco.
 
 ## Projects
 
+- **[Daily Fit](https://github.com/vsahasi/daily-fit)** ([live](https://daily-fit-pearl.vercel.app)): a closet that dresses you. A deterministic outfit engine reads the hourly forecast and picks from what is clean, using temperature bands, a layering model, and a formality scale derived from research. 201 tests with seeded fuzzing that found 15 bugs; blind-graded looks went from 75% to 90% acceptable. Next.js, TypeScript, Postgres.
 - **[Pathway](https://github.com/vsahasi/gates_user-prototype)** ([live](https://gatesuser-prototype.vercel.app)): AI college and career advisor for the Gates Foundation. RAG over IPEDS and Common Data Set, live College Scorecard and O*NET data, separate student and parent/counselor workspaces. Next.js, Claude, Pinecone.
 - **[VeriTone](https://github.com/vsahasi/veritone)**: multimodal analysis of video. Scores divergence between transcript sentiment, vocal emotion, and facial emotion per utterance, with FAISS search over the results. FastAPI, Whisper, SpeechBrain, React.
 - **[Reducto Docs Chat](https://github.com/vsahasi/reducto-docs-chat)**: cite-or-refuse docs assistant. 18/20 correct, 20/20 cited, 0 hallucinations on a 20-question eval; bare Claude and GPT-4o matched correctness but cited nothing. Next.js, pgvector, Claude.
